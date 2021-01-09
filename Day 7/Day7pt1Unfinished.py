@@ -31,3 +31,5 @@ for i in inputData:
 
     print(baglevel)
 print(len(goldbag))
+
+#just practicing for git 
