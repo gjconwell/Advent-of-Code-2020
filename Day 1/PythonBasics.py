@@ -10,7 +10,7 @@ var4 = 12 #int
 var5 = 3.14 #float
 var6 = {"key": "value"} #dict
 var7 = {"key": [1, 3, 4]}
-var8 = [1, 2, [3, 4]]
+var8 = [1, 2, [3, 4]] #list inside a list
 
 # print(int("1234"))
 
