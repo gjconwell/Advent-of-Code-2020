@@ -6,7 +6,7 @@ hit = 0
 
 for i in inputData:
     if (xaxis >= 31):
-        xaxis = xaxis -31
+        xaxis = xaxis - 31
     if (i[xaxis] == "#"):
         hit += 1
     xaxis += 3
